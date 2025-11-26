@@ -1,14 +1,14 @@
 {
   "name": "server-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple Node.js JSON users backend with login/signup",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "module"
+  "author": "Sardor Aloyev",
+  "license": "ISC"
 }
